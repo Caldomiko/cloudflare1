@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: https://torush.xyz/sitemap.xml
